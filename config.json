@@ -1,0 +1,23 @@
+{
+    "token": "",
+    "ticketChannel": "",
+    "ticketCategory": "",
+    "roleSupport": "",
+    "ticketOptions": [
+        {
+          "label": "Support",
+          "value": "Support",
+          "emoji": { "name": "❓" }
+        },
+        {
+          "label": "Partner",
+          "value": "Partner",
+          "emoji": { "name": "🎫" }
+        },
+        {
+          "label": "Staff Bewerbung",
+          "value": "Staff Bewerbung",
+          "emoji": { "name": "📕" }
+        }
+      ]
+}
